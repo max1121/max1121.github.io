@@ -1,0 +1,5 @@
+div.fadenav { position: absolute; top: 5px; right: 0px; margin-top:148px; }
+div.fadenav a { display: block; margin: 0 0 0 3px; float: left; overflow: hidden; background-image:url(../images/inactive_btn.jpg); width:16px; height:16px; text-decoration: none;}
+div.fadenav a:hover { text-decoration: none; }
+div.fadenav a.current { background-image:url(../images/actine_btn.jpg);}
+
